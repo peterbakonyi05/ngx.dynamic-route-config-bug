@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Issue
 
+https://github.com/angular/angular/issues/20239
+
 When route configuration contains some shared static data, that data will be ignore with AOT compiler. However it works as expected with JIT compiler.
 
 ```ts
